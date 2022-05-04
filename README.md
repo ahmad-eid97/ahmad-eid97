@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ahmad eid</h1>
+<h1 align="center">Hi 👋, I'm Ahmad Eid</h1>
 <h3 align="center">Junior frontend developer from cairo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-eid97&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-eid97" /> </p>
