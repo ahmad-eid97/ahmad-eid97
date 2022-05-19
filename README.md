@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Eid</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&vCenter=true&width=700&lines=Welcome+To+My+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&vCenter=true&width=900&height=40&lines=Welcome+To+My+World)](https://git.io/typing-svg)
 
 <h3 align="center">Junior frontend developer from cairo</h3>
 
