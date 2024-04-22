@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&vCenter=true&width=900&height=20&lines=Welcome+To+My+World)](https://git.io/typing-svg)
 
-<h3 align="center">Mid-Senior frontend developer from cairo</h3>
+<h3 align="center">Mid-Senior Frontend Developer From Cairo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-eid97&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-eid97" /> </p>
 
