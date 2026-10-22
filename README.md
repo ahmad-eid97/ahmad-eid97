@@ -1,28 +1,50 @@
 <div align="center">
 
+<p><samp>FRONT-END ENGINEERING &nbsp; / &nbsp; CAIRO, EGYPT</samp></p>
+
 # Ahmad Eid
 
-### Front-End Web Developer · Cairo, Egypt
+### Thoughtful interfaces. Engineered with care.
 
-**Turning complex requirements into fast, accessible, intuitive interfaces.**
+I turn complex requirements into **fast, accessible, intuitive web experiences**.<br>
+Cybersecurity products &nbsp; · &nbsp; Design systems &nbsp; · &nbsp; Data dashboards
 
-React · Next.js · TypeScript<br>
-Cybersecurity products · Design systems · Data dashboards
+<p>
+  <img src="https://img.shields.io/badge/React-142529?style=for-the-badge&amp;logo=react&amp;logoColor=71e3bb" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-142529?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=ffffff" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-142529?style=for-the-badge&amp;logo=typescript&amp;logoColor=71e3bb" alt="TypeScript">
+</p>
 
-<a href="https://ahmad-eid.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit my portfolio"></a>
-<a href="https://ahmad-eid.com/resume"><img src="https://img.shields.io/badge/Resume-0F766E?style=for-the-badge&amp;logo=readdotcv&amp;logoColor=white" alt="View and download my resume"></a>
-<a href="https://linkedin.com/in/ahmad-eid97"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn"></a>
-<a href="mailto:civil.ahmad.eid@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Ahmad"></a>
+<br>
 
-<br><br>
+<a href="https://ahmad-eid.com"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-173b31?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=71e3bb" alt="Explore my portfolio"></a>
+<a href="https://ahmad-eid.com/resume"><img src="https://img.shields.io/badge/VIEW_RESUME-142529?style=for-the-badge&amp;logo=readdotcv&amp;logoColor=71e3bb" alt="View resume"></a>
+<a href="https://linkedin.com/in/ahmad-eid97"><img src="https://img.shields.io/badge/LINKEDIN-142529?style=for-the-badge&amp;logo=linkedin&amp;logoColor=71e3bb" alt="Connect on LinkedIn"></a>
+<a href="mailto:civil.ahmad.eid@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-142529?style=for-the-badge&amp;logo=gmail&amp;logoColor=71e3bb" alt="Email Ahmad"></a>
 
-[About](#about-me) · [Toolkit](#technical-toolkit) · [Experience](#professional-experience) · [Projects](#selected-work) · [Learning](#education--continuous-learning) · [Contact](#lets-connect)
+<br>
+
+[About](#about) &nbsp; / &nbsp; [Selected work](#selected-work) &nbsp; / &nbsp; [Toolkit](#toolkit) &nbsp; / &nbsp; [Experience](#experience) &nbsp; / &nbsp; [Learning](#learning) &nbsp; / &nbsp; [Contact](#contact)
 
 </div>
 
----
+<table>
+<tr>
+<td width="25%" align="center"><h3>4+ years</h3><sub>PRACTICAL EXPERIENCE</sub></td>
+<td width="25%" align="center"><h3>15 projects</h3><sub>PORTFOLIO SHOWCASE</sub></td>
+<td width="25%" align="center"><h3>8 certificates</h3><sub>CONTINUOUS LEARNING</sub></td>
+<td width="25%" align="center"><h3>Arabic · English</h3><sub>REMOTE FRIENDLY</sub></td>
+</tr>
+</table>
 
-## About me
+<br>
+
+<a id="about"></a>
+
+## 01 &nbsp; / &nbsp; Behind the interfaces
+
+> **Front-end focused. Product minded.**<br>
+> Building interfaces that make complex products easier to use.
 
 I'm a front-end developer with **4+ years of practical experience** building websites and web applications with product, design, and backend teams. My main focus is **React, Next.js, and TypeScript**, with an emphasis on reusable components, responsive layouts, and clear user journeys.
 
@@ -34,72 +56,69 @@ At **Darkmon**, I build and maintain interfaces for cybersecurity products, incl
 - **Community:** Sharing what I learn about web development on LinkedIn and GitHub
 - **Opportunities:** Open to roles and collaborations that match my skills and offer room to contribute and grow
 
-## Technical toolkit
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Vue.js-164E3B?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=4FC08D" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-083344?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=38BDF8" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Vitest-365314?style=for-the-badge&amp;logo=vitest&amp;logoColor=white" alt="Vitest">
-</p>
+<a id="selected-work"></a>
 
-| Area | Technologies & practices |
-| :--- | :--- |
-| Languages & foundations | TypeScript, JavaScript, HTML, CSS |
-| Front-end & state | React, Next.js, Vue.js, Nuxt.js, Redux |
-| Styling & UI | Sass, Tailwind CSS, Material UI, Bootstrap, shared component libraries |
-| Testing & API tooling | Vitest, unit testing, Apidog |
-| Development tools | Git, GitHub, npm, Docker |
-| Backend fundamentals | Node.js, Express.js, NestJS, MongoDB, Mongoose, GraphQL |
+## 02 &nbsp; / &nbsp; Selected work
 
-My strongest experience is in front-end development; backend technologies are part of my growing foundation.
-
-**Engineering interests:** Architecture, performance, algorithms, data structures, design patterns, web accessibility, interaction design, AI interfaces, prompt engineering, and AI agents.
-
-## Professional experience
-
-### Darkmon · Front End Developer
-
-**August 2024 – Present · Full-time · Cybersecurity** · [Company](https://www.darkmon.com/)
-
-- Build and maintain the front end of cybersecurity products, including the threat intelligence platform and management console.
-- Developed a shared component library to keep interface patterns and behavior consistent across applications.
-- Implemented multilingual support across platform interfaces and content.
-- Collaborate with backend and product teams to turn security data into practical dashboards and analyst workflows.
-
-### Grids Apps · Front End Developer
-
-**May 2022 – August 2024 · Full-time · Software** · [Company](https://gridsapps.com/)
-
-- Built and refined responsive websites, dashboards, and web applications for mobile, tablet, and desktop.
-- Worked with design and backend teams to translate concepts into interactive interfaces and integrate APIs.
-- Developed and maintained dashboard interfaces with clear data visualization.
-
-### Independent · Front End Developer (React & Vue)
-
-**October 2021 – May 2022 · Freelance** · [Upwork](https://www.upwork.com/freelancers/~0121c08a80cc2b1f0e)
-
-- Delivered projects using HTML, CSS, React, Next.js, Vue.js, and Nuxt.js.
-- Collaborated with clients in Saudi Arabia, Morocco, Canada, and Egypt.
-- Managed parallel projects and deadlines across time zones through clear communication and collaborative problem-solving.
-
-## Selected work
+<sub>LEARNING PLATFORMS &nbsp; / &nbsp; COMMERCE &nbsp; / &nbsp; DATA-RICH INTERFACES</sub>
 
 Explore the interfaces, interaction patterns, and product flows in my [full portfolio](https://ahmad-eid.com/works). Portfolio demos may use sample data and simulated services.
 
-| Project | Focus | Explore |
-| :--- | :--- | :--- |
-| **Imtyaz Platform** | Bilingual learning-platform front end with course discovery, learner/instructor panels, and locally persisted learning progress. | [Demo](https://imtyaz-platform.ahmad-eid.com) |
-| **Markety Shop** | E-commerce storefront with catalog browsing, product options, cart, and a browser-local demonstration checkout. | [Demo](https://markety.ahmad-eid.com) |
-| **Markety Shop Dashboard** | Administration interface for the Markety commerce suite. | [Demo](https://markety-dashboard.ahmad-eid.com) |
-| **E-Commerce Admin Dashboard** | Commerce dashboard presenting sales, inventory, customer data, and charts. | [Demo](https://e-commerce-dashboard.ahmad-eid.com) |
-| **CoreX Store** | Gaming storefront showcasing games, gear, and product discovery. | [Demo](https://corex.ahmad-eid.com) |
-| **Drosak English Learning** | English-learning interface with grammar, vocabulary, and learning activities. | [Demo](https://dorosk.ahmad-eid.com) |
+<table>
+<tr>
+<td width="50%" valign="top">
+<p><code>01 / LEARNING PLATFORM</code></p>
+<h3>Imtyaz Platform</h3>
+<p><strong>Bilingual learning, beautifully organized.</strong></p>
+<p>Course discovery, learner/instructor panels, and locally persisted learning progress.</p>
+<a href="https://imtyaz-platform.ahmad-eid.com"><strong>View Imtyaz Platform ↗</strong></a>
+</td>
+<td width="50%" valign="top">
+<p><code>02 / E-COMMERCE</code></p>
+<h3>Markety Shop</h3>
+<p><strong>From product discovery to checkout.</strong></p>
+<p>Catalog browsing, product options, cart, and a browser-local demonstration checkout.</p>
+<a href="https://markety.ahmad-eid.com"><strong>View Markety Shop ↗</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><code>03 / COMMERCE OPERATIONS</code></p>
+<h3>Markety Shop Dashboard</h3>
+<p><strong>A clearer view of the business.</strong></p>
+<p>An administration interface for the Markety commerce suite.</p>
+<a href="https://markety-dashboard.ahmad-eid.com"><strong>View Markety Shop Dashboard ↗</strong></a>
+</td>
+<td width="50%" valign="top">
+<p><code>04 / DATA &amp; ANALYTICS</code></p>
+<h3>E-Commerce Admin Dashboard</h3>
+<p><strong>Complex data. Clear decisions.</strong></p>
+<p>Sales, inventory, customer data, and charts in one commerce dashboard.</p>
+<a href="https://e-commerce-dashboard.ahmad-eid.com"><strong>View E-Commerce Admin Dashboard ↗</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><code>05 / GAMING STOREFRONT</code></p>
+<h3>CoreX Store</h3>
+<p><strong>Built for the next discovery.</strong></p>
+<p>A gaming storefront showcasing games, gear, and product discovery.</p>
+<a href="https://corex.ahmad-eid.com"><strong>View CoreX Store ↗</strong></a>
+</td>
+<td width="50%" valign="top">
+<p><code>06 / ENGLISH LEARNING</code></p>
+<h3>Drosak English Learning</h3>
+<p><strong>A more engaging way to learn.</strong></p>
+<p>Grammar, vocabulary, and learning activities in an intuitive interface.</p>
+<a href="https://dorosk.ahmad-eid.com"><strong>View Drosak English Learning ↗</strong></a>
+</td>
+</tr>
+</table>
 
 <details>
-<summary><strong>Explore more projects</strong></summary>
+<summary><strong>＋ Explore 9 more projects</strong></summary>
 
 | Project | Focus | Explore |
 | :--- | :--- | :--- |
@@ -115,7 +134,99 @@ Explore the interfaces, interaction patterns, and product flows in my [full port
 
 </details>
 
-## Education & continuous learning
+<br>
+
+<a id="toolkit"></a>
+
+## 03 &nbsp; / &nbsp; The tools behind the craft
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>⌘ &nbsp; Front-end engineering</h3>
+<p><code>TypeScript</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code></p>
+<p><code>React</code> <code>Next.js</code> <code>Vue.js</code> <code>Nuxt.js</code> <code>Redux</code></p>
+</td>
+<td width="50%" valign="top">
+<h3>◈ &nbsp; Styling &amp; systems</h3>
+<p><code>Sass</code> <code>Tailwind CSS</code> <code>Material UI</code> <code>Bootstrap</code></p>
+<p>Shared component libraries, responsive layouts, and consistent interface patterns.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>◎ &nbsp; Quality &amp; workflow</h3>
+<p><code>Vitest</code> <code>Unit testing</code> <code>Apidog</code></p>
+<p><code>Git</code> <code>GitHub</code> <code>npm</code> <code>Docker</code></p>
+</td>
+<td width="50%" valign="top">
+<h3>⌁ &nbsp; Backend fundamentals</h3>
+<p><code>Node.js</code> <code>Express.js</code> <code>NestJS</code></p>
+<p><code>MongoDB</code> <code>Mongoose</code> <code>GraphQL</code></p>
+</td>
+</tr>
+</table>
+
+**My strongest experience is in front-end development.** Backend technologies are part of my growing foundation.
+
+<details>
+<summary><strong>View the complete toolkit & engineering interests</strong></summary>
+
+| Area | Technologies & practices |
+| :--- | :--- |
+| Languages & foundations | TypeScript, JavaScript, HTML, CSS |
+| Front-end & state | React, Next.js, Vue.js, Nuxt.js, Redux |
+| Styling & UI | Sass, Tailwind CSS, Material UI, Bootstrap, shared component libraries |
+| Testing & API tooling | Vitest, unit testing, Apidog |
+| Development tools | Git, GitHub, npm, Docker |
+| Backend fundamentals | Node.js, Express.js, NestJS, MongoDB, Mongoose, GraphQL |
+
+My strongest experience is in front-end development; backend technologies are part of my growing foundation.
+
+**Engineering interests:** Architecture, performance, algorithms, data structures, design patterns, web accessibility, interaction design, AI interfaces, prompt engineering, and AI agents.
+
+</details>
+
+<br>
+
+<a id="experience"></a>
+
+## 04 &nbsp; / &nbsp; Where I have built
+
+### ◉ Darkmon · Front End Developer
+
+**August 2024 – Present · Full-time · Cybersecurity** · [Company](https://www.darkmon.com/)
+
+- Build and maintain the front end of cybersecurity products, including the threat intelligence platform and management console.
+- Developed a shared component library to keep interface patterns and behavior consistent across applications.
+- Implemented multilingual support across platform interfaces and content.
+- Collaborate with backend and product teams to turn security data into practical dashboards and analyst workflows.
+
+---
+
+### ◇ Grids Apps · Front End Developer
+
+**May 2022 – August 2024 · Full-time · Software** · [Company](https://gridsapps.com/)
+
+- Built and refined responsive websites, dashboards, and web applications for mobile, tablet, and desktop.
+- Worked with design and backend teams to translate concepts into interactive interfaces and integrate APIs.
+- Developed and maintained dashboard interfaces with clear data visualization.
+
+---
+
+### ◇ Independent · Front End Developer (React & Vue)
+
+**October 2021 – May 2022 · Freelance** · [Upwork](https://www.upwork.com/freelancers/~0121c08a80cc2b1f0e)
+
+- Delivered projects using HTML, CSS, React, Next.js, Vue.js, and Nuxt.js.
+- Collaborated with clients in Saudi Arabia, Morocco, Canada, and Egypt.
+- Managed parallel projects and deadlines across time zones through clear communication and collaborative problem-solving.
+
+<br>
+
+<a id="learning"></a>
+
+## 05 &nbsp; / &nbsp; Always learning
 
 **Civil Engineering · Faculty of Engineering, Sohag University**  
 June 2016 – August 2021 · Graduation project: **Excellent**
@@ -135,15 +246,26 @@ See my [certificate collection](https://ahmad-eid.com/certificates) for the indi
 - [Introduction to Modern AI](https://ahmad-eid.com/imgs/certificates/Introduction-To-Modern-AI.webp)
 - [React.js Framework](https://ahmad-eid.com/imgs/certificates/Reactjs.webp)
 
-## Let's connect
+<br>
 
-Interested in thoughtful interfaces, reusable UI systems, or data-rich web applications? I'd be happy to discuss a relevant role or project.
+<a id="contact"></a>
 
 <div align="center">
 
-**[Portfolio](https://ahmad-eid.com) · [Resume](https://ahmad-eid.com/resume) · [LinkedIn](https://linkedin.com/in/ahmad-eid97) · [GitHub](https://github.com/ahmad-eid97) · [X](https://x.com/ahmadei06721675)**
+<p><samp>LET'S MAKE SOMETHING GREAT</samp></p>
 
-**[civil.ahmad.eid@gmail.com](mailto:civil.ahmad.eid@gmail.com)**  
-[Send a project brief](https://ahmad-eid.com/contact-me)
+## Have something in mind?
+
+Thoughtful interfaces. Reusable systems. Meaningful collaboration.
+
+Open to roles and projects where I can **contribute, learn, and grow**.
+
+<br>
+
+**[Send a project brief ↗](https://ahmad-eid.com/contact-me)** &nbsp; · &nbsp; **[civil.ahmad.eid@gmail.com](mailto:civil.ahmad.eid@gmail.com)**
+
+[Portfolio](https://ahmad-eid.com) &nbsp; / &nbsp; [Resume](https://ahmad-eid.com/resume) &nbsp; / &nbsp; [LinkedIn](https://linkedin.com/in/ahmad-eid97) &nbsp; / &nbsp; [GitHub](https://github.com/ahmad-eid97) &nbsp; / &nbsp; [X](https://x.com/ahmadei06721675)
+
+<sub>Based in Cairo. Building for the web.</sub>
 
 </div>
