@@ -1,26 +1,24 @@
 <div align="center">
 
-<p><samp>FRONT-END ENGINEERING &nbsp; / &nbsp; CAIRO, EGYPT</samp></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:0F766E,100:29A587&amp;height=230&amp;section=header&amp;text=Ahmad%20Eid&amp;fontSize=64&amp;fontColor=FFFFFF&amp;fontAlignY=36&amp;desc=Front-End%20Web%20Developer%20%7C%20Cairo,%20Egypt&amp;descSize=19&amp;descAlignY=57&amp;animation=fadeIn" width="100%" alt="Ahmad Eid — Front-End Web Developer from Cairo, Egypt">
 
-# Ahmad Eid
+<a href="https://ahmad-eid.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1200&amp;color=29A587&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=65&amp;lines=React+%2B+Next.js+%2B+TypeScript;Building+interfaces+that+make+complexity+simple.;Cybersecurity+%7C+Design+Systems+%7C+Dashboards;Let's+build+something+great+together." width="100%" alt="Animated introduction: React, Next.js, TypeScript. Building interfaces that make complexity simple. Cybersecurity, design systems, dashboards. Let's build something great together."></a>
 
-### Thoughtful interfaces. Engineered with care.
-
-I turn complex requirements into **fast, accessible, intuitive web experiences**.<br>
-Cybersecurity products &nbsp; · &nbsp; Design systems &nbsp; · &nbsp; Data dashboards
+**4+ years turning complex requirements into fast, accessible, intuitive web experiences.**
 
 <p>
-  <img src="https://img.shields.io/badge/React-142529?style=for-the-badge&amp;logo=react&amp;logoColor=71e3bb" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-142529?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=ffffff" alt="Next.js">
-  <img src="https://img.shields.io/badge/TypeScript-142529?style=for-the-badge&amp;logo=typescript&amp;logoColor=71e3bb" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Experience-4%2B_years-29A587?style=flat-square" alt="4+ years of experience">
+  <img src="https://img.shields.io/badge/Portfolio-15_projects-0EA5E9?style=flat-square" alt="15 portfolio projects">
+  <img src="https://img.shields.io/badge/Learning-8_certificates-8B5CF6?style=flat-square" alt="8 certificates">
+  <img src="https://img.shields.io/badge/Remote-Friendly-29A587?style=flat-square" alt="Remote friendly">
 </p>
 
 <br>
 
-<a href="https://ahmad-eid.com"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-173b31?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=71e3bb" alt="Explore my portfolio"></a>
-<a href="https://ahmad-eid.com/resume"><img src="https://img.shields.io/badge/VIEW_RESUME-142529?style=for-the-badge&amp;logo=readdotcv&amp;logoColor=71e3bb" alt="View resume"></a>
-<a href="https://linkedin.com/in/ahmad-eid97"><img src="https://img.shields.io/badge/LINKEDIN-142529?style=for-the-badge&amp;logo=linkedin&amp;logoColor=71e3bb" alt="Connect on LinkedIn"></a>
-<a href="mailto:civil.ahmad.eid@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-142529?style=for-the-badge&amp;logo=gmail&amp;logoColor=71e3bb" alt="Email Ahmad"></a>
+<a href="https://ahmad-eid.com"><img src="https://img.shields.io/badge/Portfolio-29A587?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Explore my portfolio"></a>
+<a href="https://ahmad-eid.com/resume"><img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&amp;logo=readdotcv&amp;logoColor=white" alt="View resume"></a>
+<a href="https://linkedin.com/in/ahmad-eid97"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn"></a>
+<a href="mailto:civil.ahmad.eid@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Ahmad"></a>
 
 <br>
 
@@ -28,20 +26,11 @@ Cybersecurity products &nbsp; · &nbsp; Design systems &nbsp; · &nbsp; Data das
 
 </div>
 
-<table>
-<tr>
-<td width="25%" align="center"><h3>4+ years</h3><sub>PRACTICAL EXPERIENCE</sub></td>
-<td width="25%" align="center"><h3>15 projects</h3><sub>PORTFOLIO SHOWCASE</sub></td>
-<td width="25%" align="center"><h3>8 certificates</h3><sub>CONTINUOUS LEARNING</sub></td>
-<td width="25%" align="center"><h3>Arabic · English</h3><sub>REMOTE FRIENDLY</sub></td>
-</tr>
-</table>
-
 <br>
 
 <a id="about"></a>
 
-## 01 &nbsp; / &nbsp; Behind the interfaces
+## 👨‍💻 &nbsp; About me
 
 > **Front-end focused. Product minded.**<br>
 > Building interfaces that make complex products easier to use.
@@ -60,7 +49,7 @@ At **Darkmon**, I build and maintain interfaces for cybersecurity products, incl
 
 <a id="selected-work"></a>
 
-## 02 &nbsp; / &nbsp; Selected work
+## 🚀 &nbsp; Projects I've built
 
 <sub>LEARNING PLATFORMS &nbsp; / &nbsp; COMMERCE &nbsp; / &nbsp; DATA-RICH INTERFACES</sub>
 
@@ -69,15 +58,15 @@ Explore the interfaces, interaction patterns, and product flows in my [full port
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><code>01 / LEARNING PLATFORM</code></p>
-<h3>Imtyaz Platform</h3>
+<p><img src="https://img.shields.io/badge/EDUCATION-2563EB?style=flat-square" alt="Education"></p>
+<h3>🎓 Imtyaz Platform</h3>
 <p><strong>Bilingual learning, beautifully organized.</strong></p>
 <p>Course discovery, learner/instructor panels, and locally persisted learning progress.</p>
 <a href="https://imtyaz-platform.ahmad-eid.com"><strong>View Imtyaz Platform ↗</strong></a>
 </td>
 <td width="50%" valign="top">
-<p><code>02 / E-COMMERCE</code></p>
-<h3>Markety Shop</h3>
+<p><img src="https://img.shields.io/badge/E--COMMERCE-EA580C?style=flat-square" alt="E-commerce"></p>
+<h3>🛍️ Markety Shop</h3>
 <p><strong>From product discovery to checkout.</strong></p>
 <p>Catalog browsing, product options, cart, and a browser-local demonstration checkout.</p>
 <a href="https://markety.ahmad-eid.com"><strong>View Markety Shop ↗</strong></a>
@@ -85,15 +74,15 @@ Explore the interfaces, interaction patterns, and product flows in my [full port
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><code>03 / COMMERCE OPERATIONS</code></p>
-<h3>Markety Shop Dashboard</h3>
+<p><img src="https://img.shields.io/badge/OPERATIONS-7C3AED?style=flat-square" alt="Operations"></p>
+<h3>📦 Markety Shop Dashboard</h3>
 <p><strong>A clearer view of the business.</strong></p>
 <p>An administration interface for the Markety commerce suite.</p>
 <a href="https://markety-dashboard.ahmad-eid.com"><strong>View Markety Shop Dashboard ↗</strong></a>
 </td>
 <td width="50%" valign="top">
-<p><code>04 / DATA &amp; ANALYTICS</code></p>
-<h3>E-Commerce Admin Dashboard</h3>
+<p><img src="https://img.shields.io/badge/ANALYTICS-0F766E?style=flat-square" alt="Analytics"></p>
+<h3>📊 E-Commerce Admin Dashboard</h3>
 <p><strong>Complex data. Clear decisions.</strong></p>
 <p>Sales, inventory, customer data, and charts in one commerce dashboard.</p>
 <a href="https://e-commerce-dashboard.ahmad-eid.com"><strong>View E-Commerce Admin Dashboard ↗</strong></a>
@@ -101,15 +90,15 @@ Explore the interfaces, interaction patterns, and product flows in my [full port
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><code>05 / GAMING STOREFRONT</code></p>
-<h3>CoreX Store</h3>
+<p><img src="https://img.shields.io/badge/GAMING-DB2777?style=flat-square" alt="Gaming"></p>
+<h3>🎮 CoreX Store</h3>
 <p><strong>Built for the next discovery.</strong></p>
 <p>A gaming storefront showcasing games, gear, and product discovery.</p>
 <a href="https://corex.ahmad-eid.com"><strong>View CoreX Store ↗</strong></a>
 </td>
 <td width="50%" valign="top">
-<p><code>06 / ENGLISH LEARNING</code></p>
-<h3>Drosak English Learning</h3>
+<p><img src="https://img.shields.io/badge/LEARNING-0284C7?style=flat-square" alt="Learning"></p>
+<h3>🌍 Drosak English Learning</h3>
 <p><strong>A more engaging way to learn.</strong></p>
 <p>Grammar, vocabulary, and learning activities in an intuitive interface.</p>
 <a href="https://dorosk.ahmad-eid.com"><strong>View Drosak English Learning ↗</strong></a>
@@ -138,29 +127,33 @@ Explore the interfaces, interaction patterns, and product flows in my [full port
 
 <a id="toolkit"></a>
 
-## 03 &nbsp; / &nbsp; The tools behind the craft
+## 🛠️ &nbsp; Languages & tools
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>⌘ &nbsp; Front-end engineering</h3>
+<h3>⚛️ Front-end engineering</h3>
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vue,nuxtjs,redux,html,css&amp;perline=5" width="260" alt="React, Next.js, TypeScript, JavaScript, Vue.js, Nuxt.js, Redux, HTML, CSS"></p>
 <p><code>TypeScript</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code></p>
 <p><code>React</code> <code>Next.js</code> <code>Vue.js</code> <code>Nuxt.js</code> <code>Redux</code></p>
 </td>
 <td width="50%" valign="top">
-<h3>◈ &nbsp; Styling &amp; systems</h3>
+<h3>🎨 Styling &amp; systems</h3>
+<p><img src="https://skillicons.dev/icons?i=sass,tailwind,materialui,bootstrap&amp;perline=4" width="204" alt="Sass, Tailwind CSS, Material UI, Bootstrap"></p>
 <p><code>Sass</code> <code>Tailwind CSS</code> <code>Material UI</code> <code>Bootstrap</code></p>
 <p>Shared component libraries, responsive layouts, and consistent interface patterns.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>◎ &nbsp; Quality &amp; workflow</h3>
+<h3>🧪 Quality &amp; workflow</h3>
+<p><img src="https://skillicons.dev/icons?i=vitest,git,github,npm,docker&amp;perline=5" width="260" alt="Vitest, Git, GitHub, npm, Docker"></p>
 <p><code>Vitest</code> <code>Unit testing</code> <code>Apidog</code></p>
 <p><code>Git</code> <code>GitHub</code> <code>npm</code> <code>Docker</code></p>
 </td>
 <td width="50%" valign="top">
-<h3>⌁ &nbsp; Backend fundamentals</h3>
+<h3>🌱 Backend fundamentals</h3>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,graphql&amp;perline=5" width="260" alt="Node.js, Express.js, NestJS, MongoDB, GraphQL"></p>
 <p><code>Node.js</code> <code>Express.js</code> <code>NestJS</code></p>
 <p><code>MongoDB</code> <code>Mongoose</code> <code>GraphQL</code></p>
 </td>
@@ -191,9 +184,11 @@ My strongest experience is in front-end development; backend technologies are pa
 
 <a id="experience"></a>
 
-## 04 &nbsp; / &nbsp; Where I have built
+## 💼 &nbsp; My professional journey
 
-### ◉ Darkmon · Front End Developer
+### 🛡️ Darkmon · Front End Developer
+
+<img src="https://img.shields.io/badge/CURRENT_ROLE-29A587?style=flat-square" alt="Current role">
 
 **August 2024 – Present · Full-time · Cybersecurity** · [Company](https://www.darkmon.com/)
 
@@ -204,7 +199,7 @@ My strongest experience is in front-end development; backend technologies are pa
 
 ---
 
-### ◇ Grids Apps · Front End Developer
+### 🧩 Grids Apps · Front End Developer
 
 **May 2022 – August 2024 · Full-time · Software** · [Company](https://gridsapps.com/)
 
@@ -214,7 +209,7 @@ My strongest experience is in front-end development; backend technologies are pa
 
 ---
 
-### ◇ Independent · Front End Developer (React & Vue)
+### 🌐 Independent · Front End Developer (React & Vue)
 
 **October 2021 – May 2022 · Freelance** · [Upwork](https://www.upwork.com/freelancers/~0121c08a80cc2b1f0e)
 
@@ -226,14 +221,14 @@ My strongest experience is in front-end development; backend technologies are pa
 
 <a id="learning"></a>
 
-## 05 &nbsp; / &nbsp; Always learning
+## 🎓 &nbsp; Education & continuous learning
 
 **Civil Engineering · Faculty of Engineering, Sohag University**  
 June 2016 – August 2021 · Graduation project: **Excellent**
 
 My engineering background helped shape the analytical approach I bring to software development.
 
-### Certificates
+### 🏅 Certificates
 
 See my [certificate collection](https://ahmad-eid.com/certificates) for the individual certificates.
 
@@ -252,9 +247,9 @@ See my [certificate collection](https://ahmad-eid.com/certificates) for the indi
 
 <div align="center">
 
-<p><samp>LET'S MAKE SOMETHING GREAT</samp></p>
+## 🤝 Let's build something great
 
-## Have something in mind?
+<a href="mailto:civil.ahmad.eid@gmail.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1500&amp;color=29A587&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=50&amp;lines=Your+next+idea.+Our+next+great+project.;Let's+connect+and+make+it+happen." width="100%" alt="Animated invitation: Your next idea. Our next great project. Let's connect and make it happen."></a>
 
 Thoughtful interfaces. Reusable systems. Meaningful collaboration.
 
@@ -267,5 +262,7 @@ Open to roles and projects where I can **contribute, learn, and grow**.
 [Portfolio](https://ahmad-eid.com) &nbsp; / &nbsp; [Resume](https://ahmad-eid.com/resume) &nbsp; / &nbsp; [LinkedIn](https://linkedin.com/in/ahmad-eid97) &nbsp; / &nbsp; [GitHub](https://github.com/ahmad-eid97) &nbsp; / &nbsp; [X](https://x.com/ahmadei06721675)
 
 <sub>Based in Cairo. Building for the web.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:0F766E,100:29A587&amp;height=110&amp;section=footer" width="100%" alt="Emerald wave footer">
 
 </div>
